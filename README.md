@@ -77,7 +77,10 @@ function showName (nome){
 
 Propiredades | Descrição
 -------------|----------
-name | Informar o nome do usuário
+name | Informar o **nome** do usuário
 size | Para definir o tamanho do campo
 background | Cor de fundo da area em HEX
 onPress | Função chamada quando clicar no botão
+Linkedin | [Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
+Facebook | [Facebook](https://www.facebook.com/Estudantede.Biomedicina/)
+Instagram | [Instagram](https://www.instagram.com/whospretiinha/)
