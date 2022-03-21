@@ -8,7 +8,10 @@
 **Ultimas updates:**
 - [X] Linkedin
 - [ ] Cursos concluídos
-- [ ] Cursos agendados
+- [ ] Cursos agendado
+
+### Linkedin:
+   [Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissional._
 
@@ -71,3 +74,10 @@ function showName (nome){
 
 }
 ```
+
+Propiredades | Descrição
+-------------|----------
+name | Informar o nome do usuário
+size | Para definir o tamanho do campo
+background | Cor de fundo da area em HEX
+onPress | |Função chamada quando clicar no botão
