@@ -51,6 +51,11 @@ function showName (nome){
 **Uso do componente HTML:**
 ```html
 <h1>
+
+    Titulo do projeto 
+    <span>Curso GIT<span>
+
+</h1>
 ```
 
 **CSS padrão do projeto:**
