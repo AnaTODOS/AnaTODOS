@@ -34,6 +34,8 @@ Esse é um projeto de portfolio com HTML CSS e Javascript
 [Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
 
 
+'''
+
 ***Comando para rodar o projeto;**
 '''
 npm start
