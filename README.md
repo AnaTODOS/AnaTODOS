@@ -14,6 +14,14 @@ Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissiona
 * GIT avançado.
 * Usando github de forma profissional.
 
+
+
+1. Gabriel
+2. Samuel
+3. Daniel
+4. Ana
+5. Melow o doguinho caramelo
+
 _Entendemos o que é **git** , Aprendendo sobre **repositorios._** _Trabalhamos com **branches_**
 Esse é um projeto de portfolio com HTML CSS e Javascript
 
