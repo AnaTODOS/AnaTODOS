@@ -17,6 +17,8 @@ Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissiona
 
 
 1. Gabriel
+  1. Inteligente 
+  2. Esforçado
 2. Samuel
 3. Daniel
 4. Ana
