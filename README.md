@@ -11,3 +11,7 @@ Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissiona
 ## Módulos##
 _Entendemos o que é **git** , Aprendendo sobre **repositorios._** _Trabalhamos com **branches_**
 Esse é um projeto de portfolio com HTML CSS e Javascript
+
+
+### Linkedin:
+![Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
