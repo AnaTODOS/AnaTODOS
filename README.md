@@ -13,6 +13,9 @@ Linkedin | [Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
 Facebook | [Facebook](https://www.facebook.com/Estudantede.Biomedicina/)
 Instagram | [Instagram](https://www.instagram.com/whospretiinha/)
 
+
+![Logo do git](https://blogdokelmer.wordpress.com/files/2009/06/fighomemletracaminhando.gif?w=144)
+
 **Ultimas updates:**
 - [X] Linkedin
 - [ ] Cursos concluídos
