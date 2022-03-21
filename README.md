@@ -14,4 +14,4 @@ Esse é um projeto de portfolio com HTML CSS e Javascript
 
 
 ### Linkedin:
-![Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
+[Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
