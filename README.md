@@ -80,4 +80,4 @@ Propiredades | Descrição
 name | Informar o nome do usuário
 size | Para definir o tamanho do campo
 background | Cor de fundo da area em HEX
-onPress | |Função chamada quando clicar no botão
+onPress | Função chamada quando clicar no botão
