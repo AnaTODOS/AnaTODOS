@@ -22,9 +22,7 @@ Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissiona
 4. Ana
 5. Melow o doguinho caramelo
 
->Esta é uma família maluca, isso é perfeito.
->
->Nos completamos nas nossas imperfeições 
+
 
 _Entendemos o que é **git** , Aprendendo sobre **repositorios._** _Trabalhamos com **branches_**
 Esse é um projeto de portfolio com HTML CSS e Javascript
@@ -33,30 +31,33 @@ Esse é um projeto de portfolio com HTML CSS e Javascript
 ### Linkedin:
 [Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
 
+>Esta é uma família maluca, isso é perfeito.
+>
+>Nos completamos nas nossas imperfeições.
 
-'''
+**Comando para rodar o projeto;**
 
-***Comando para rodar o projeto;**
-'''
+```
 npm start
-'''
+```
 
 *** Exemplo de uso do script:**
-'''js
+
+```js
 function showName (nome){
 
 }
-'''
+```
 **Uso do componente HTML:**
-'''html
+```html
 <h1>
-'''
+```
 
 **CSS padrão do projeto:**
-'''css
+```css
 .titulo do projeto{
     background-color: #FFF;
-    color:#FF000;
+    color:#FF0000;
 
 }
-'''
+```
