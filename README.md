@@ -22,7 +22,7 @@ Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissiona
 4. Ana
 5. Melow o doguinho caramelo
 
->Este é uma família maluca igual a perfeita.
+>Esta é uma família maluca, isso é perfeito.
 >
 >Nos completamos nas nossas imperfeições 
 
@@ -34,3 +34,27 @@ Esse é um projeto de portfolio com HTML CSS e Javascript
 [Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
 
 
+***Comando para rodar o projeto;**
+'''
+npm start
+'''
+
+*** Exemplo de uso do script:**
+'''js
+function showName (nome){
+
+}
+'''
+**Uso do componente HTML:**
+'''html
+<h1>
+'''
+
+**CSS padrão do projeto:**
+'''css
+.titulo do projeto{
+    background-color: #FFF;
+    color:#FF000;
+
+}
+'''
