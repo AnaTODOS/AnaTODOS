@@ -1,5 +1,5 @@
 
-![Logo do linkedin](https://github.com/professorjosedeassis/c/blob/master/homem%20letra.gif)
+![Logo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
 
 
