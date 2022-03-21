@@ -17,12 +17,14 @@ Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissiona
 
 
 1. Gabriel
-  1. Inteligente 
-  2. Esforçado
 2. Samuel
 3. Daniel
 4. Ana
 5. Melow o doguinho caramelo
+
+>Este é uma família maluca igual a perfeita.
+>
+>Nos completamos nas nossas imperfeições 
 
 _Entendemos o que é **git** , Aprendendo sobre **repositorios._** _Trabalhamos com **branches_**
 Esse é um projeto de portfolio com HTML CSS e Javascript
