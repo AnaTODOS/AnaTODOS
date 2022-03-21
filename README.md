@@ -4,6 +4,11 @@
 
 
 # site-portfolio
+
+**Ultimas updates:**
+- [X] Linkedin
+- [ ] Cursos concluídos
+- [ ] Cursos agendados
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissional._
 
