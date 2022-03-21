@@ -1,3 +1,8 @@
+
+![Logo do linkedin](https://github.com/professorjosedeassis/c/blob/master/homem%20letra.gif)
+
+
+
 # site-portfolio
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissional._
