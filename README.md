@@ -49,7 +49,7 @@ Esse é um projeto de portfolio com HTML CSS e Javascript
 >
 >Nos completamos nas nossas imperfeições.
 
-**Comando para rodar o projeto;**
+###Comando para rodar o projeto;###
 
 ```
 npm start
