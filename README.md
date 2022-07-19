@@ -1,4 +1,4 @@
-
+## Hey 👋, I'm [Ana!](https://www.linkedin.com/in/ana-silva-23199471/)
 ![Logo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
 [Bem vindo](#bem-vindo-ao-curso-git-e-github) |
@@ -6,6 +6,17 @@
 [Linkedin](#linkedin-1) |
 [Comandos](#comando-para-rodar-o-projeto) |
 # site-portfolio
+
+
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuffs:
+
+
 
 Propiredades | Descrição
 -------------|----------
