@@ -1,106 +1,25 @@
-## Hey 👋, I'm [Ana!](https://www.linkedin.com/in/ana-silva-23199471/)
-![Logo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header&text=Ana Silva&fontSize=25&fontColor=000000&animation=twinkling&fontAlignY=35"/> 
 
-[Bem vindo](#bem-vindo-ao-curso-git-e-github) |
-[Modulos](#módulos) |
-[Linkedin](#linkedin-1) |
-[Comandos](#comando-para-rodar-o-projeto) |
-# site-portfolio
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Ana+;graduada+em+Redes+de+Computadores;estudante+na+escola+Ultima;rumo+a+primeira+certificação;de+nível+internacional!+:%29)](https://git.io/typing-svg)
 
+![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif)
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-### Talking about Personal Stuffs:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-analistadetesteqa-23199471/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/+5511948594968)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp%20-WhatsApp%20-green)](https://wa.me/qr/23G6MYXIMPMNP1)
 
 
 
-Propiredades | Descrição
--------------|----------
-Linkedin | [Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
-Facebook | [Facebook](https://www.facebook.com/Estudantede.Biomedicina/)
-Instagram | [Instagram](https://www.instagram.com/whospretiinha/)
 
-
+  
 ![Logo do git](https://blogdokelmer.wordpress.com/files/2009/06/fighomemletracaminhando.gif?w=144)
-
-**Ultimas updates:**
-- [X] Linkedin
-- [ ] Cursos concluídos
-- [ ] Cursos agendado
-
-### Linkedin:
-   [Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
-# Bem vindo ao curso Git e Github.
-Nesse curso você vai  dominar todo **git** e **github** _do zero ao profissional._
+> Não se contrata ninguém para fazer flexões por você!
 
 
-## Módulos##
-* Começando com GIT.
-* Aprendendo sobre braches.
-* GIT avançado.
-* Usando github de forma profissional.
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
 
 
-
-1. Gabriel
-2. Samuel
-3. Daniel
-4. Ana
-5. Melow o doguinho caramelo
-
-
-
-_Entendemos o que é **git** , Aprendendo sobre **repositorios._** _Trabalhamos com **branches_**
-Esse é um projeto de portfolio com HTML CSS e Javascript
-
-
-### Linkedin:
-[Linkedin](https://www.linkedin.com/in/ana-silva-23199471/)
-
->Esta é uma família maluca, isso é perfeito.
->
->Nos completamos nas nossas imperfeições.
-
-### Comando para rodar o projeto
-
-```
-npm start
-```
-
-*** Exemplo de uso do script:**
-
-```js
-function showName (nome){
-
-}
-```
-**Uso do componente HTML:**
-```html
-<h1>
-
-    Titulo do projeto 
-    <span>Curso GIT<span>
-
-</h1>
-```
-
-**CSS padrão do projeto:**
-```css
-.titulo do projeto{
-    background-color: #FFF;
-    color:#FF0000;
-
-}
-```
-
-Propiredades | Descrição
--------------|----------
-name | Informar o **nome** do usuário
-size | Para definir o tamanho do campo
-background | Cor de fundo da area em HEX
-onPress | Função chamada quando clicar no botão
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
