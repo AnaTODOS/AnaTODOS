@@ -16,10 +16,10 @@
 > Não se contrata ninguém para fazer flexões por você!
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
-<br></div>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&theme=radical&show_icons=true&locale=en" alt="AnaQA" /></p>
+
+____
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>****
