@@ -15,10 +15,12 @@
 ![Logo do git](https://blogdokelmer.wordpress.com/files/2009/06/fighomemletracaminhando.gif?w=144)
 > Não se contrata ninguém para fazer flexões por você!
 
+____
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaTODOS&theme=radical&show_icons=true&locale=en&layout=compact" alt="AnaTODOS" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&theme=radical&show_icons=true&locale=en" alt="AnaQA" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaQA&theme=radical&show_icons=true&locale=en" alt="AnaTODOS" /></p>
 
 ____
 
