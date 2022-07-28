@@ -9,6 +9,8 @@
         👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-QA%20Tester-pink" />
     </summary>
   <div style="display:flex"><br>
+  
+ ### Bacharel em Redes de Computadores, [QA em contante evolução!](https://github.com/AnaTODOS/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-analistadetesteqa-23199471/)
@@ -44,7 +46,6 @@ ___
 <img align="center" alt="Andre-MySQL" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
 <img align="center" alt="Andre-Figma" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">      
 
-      
 
 ___
 <details open>
@@ -73,8 +74,23 @@ ___
            <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
            <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" />
-           
-           
+
+___
+  
+  ### Projetos [Futuros!](https://github.com/AnaTODOS/)
+  
+  <details open>
+    <summary>
+        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-QA%20Projetos futuros-pink" />
+    </summary>
+  <div style="display:flex"><br>
+  
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+<img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
+<img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" />
+<img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red/" >
+<img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/>      
+         
 ___
 
   
