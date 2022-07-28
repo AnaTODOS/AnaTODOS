@@ -33,7 +33,18 @@ ___
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<img align="center" alt="Andre-React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+<img align="center" alt="Andre-Nextjsr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="Andre-Js" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Andre-Ts" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Andre-NODE" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Andre-HTML" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Andre-CSS" height="30" width="40"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Andre-Docker" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="center" alt="Andre-MySQL" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+<img align="center" alt="Andre-Figma" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">      
 
+      
 
 ___
 <details open>
@@ -75,6 +86,9 @@ ____
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaTODOS&theme=radical&show_icons=true&locale=en&layout=compact" alt="AnaTODOS" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&theme=radical&show_icons=true&locale=en" alt="AnaTODOS" /></p>
+
+  ![Snake animation](https://github.com/DehDelfino/DehDelfino/blob/output/github-contribution-grid-snake.svg)
+</div>
 ____
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>****
