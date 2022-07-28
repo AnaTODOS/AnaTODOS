@@ -40,6 +40,8 @@ ___
     <summary>
         	  👈 <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
     </summary>
+    
+  <div style="display:flex"><br>
            <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
            <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
