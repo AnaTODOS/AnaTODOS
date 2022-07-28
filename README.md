@@ -18,6 +18,7 @@
 
 
 [![WhatsApp Badge](https://aleen42.github.io/badges/src/bugatti.svg)](https://wa.me/qr/23G6MYXIMPMNP1)
+___
 
 ### Languages and Tools:
 
@@ -71,7 +72,7 @@ ____
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaTODOS&theme=radical&show_icons=true&locale=en&layout=compact" alt="AnaTODOS" />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaQA&theme=radical&show_icons=true&locale=en" alt="AnaTODOS" /></p>
+____
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>****
