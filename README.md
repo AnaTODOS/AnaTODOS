@@ -8,7 +8,7 @@
     <summary>
         👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-QA%20Tester-pink" />
     </summary>
-
+  <div style="display:flex"><br>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-analistadetesteqa-23199471/)
