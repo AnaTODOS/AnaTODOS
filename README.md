@@ -10,7 +10,7 @@
 
       
       
- ### _Bacharel em Redes de Computadores_, [_QA em constante evolução_!](https://github.com/AnaTODOS/)
+ ### [_Não se contrata ninguém para fazer flexões por você!_](https://github.com/AnaTODOS/) [_QA em constante evolução_!](https://github.com/AnaTODOS/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-analistadetesteqa-23199471/)
@@ -98,8 +98,7 @@ ___
 
   
 ![Logo do git](https://blogdokelmer.wordpress.com/files/2009/06/fighomemletracaminhando.gif?w=144)
-> Não se contrata ninguém para fazer flexões por você!
-
+> _Bacharel em Redes de Computadores_
 ____
 
 
