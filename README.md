@@ -4,13 +4,13 @@
 
 ![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif)
 
-<details open>
-    <summary>
-        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-QA%20Tester-pink" />
-    </summary>
-  <div style="display:flex"><br>
-  
- ### Bacharel em Redes de Computadores, [QA em contante evolução!](https://github.com/AnaTODOS/)
+ 
+ <details>	
+  <summary><b>⚡👈  Stats</b></summary>
+
+      
+      
+ ### _Bacharel em Redes de Computadores_, [_QA em constante evolução_!](https://github.com/AnaTODOS/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-analistadetesteqa-23199471/)
@@ -20,6 +20,9 @@
 
 
 [![WhatsApp Badge](https://aleen42.github.io/badges/src/bugatti.svg)](https://wa.me/qr/23G6MYXIMPMNP1)
+     
+</details>
+
 ___
 
 ### Languages and Tools:
