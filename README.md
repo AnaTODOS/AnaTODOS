@@ -8,9 +8,23 @@
  <details>	
   <summary><b>⚡👈  Stats</b></summary>
 
+    
+> _Auxiliar de departamento pessoal_
+   
+> _Bacharel em Redes de Computadores_  
+   
+> _Graduanda em Biomedicina_
+   
+> _Analista de testes de software_
+   
+> _Desenvolvedor Front-End_   
+     
+  
+![Logo do git](https://blogdokelmer.wordpress.com/files/2009/06/fighomemletracaminhando.gif?w=144)
+
+   
+ > _Não se contrata ninguém para fazer flexões por você_       
       
-      
- ### [_Não se contrata ninguém para fazer flexões por você!_](https://github.com/AnaTODOS/) [_QA em constante evolução_!](https://github.com/AnaTODOS/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-analistadetesteqa-23199471/)
@@ -80,7 +94,7 @@ ___
 
 ___
   
-  ### Projetos [Futuros!](https://github.com/AnaTODOS/)
+  ### [Projetos Futuros!](https://github.com/AnaTODOS/)
   
   <details open>
     <summary>
@@ -94,11 +108,8 @@ ___
 <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red/" >
 <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/>      
          
-___
+   
 
-  
-![Logo do git](https://blogdokelmer.wordpress.com/files/2009/06/fighomemletracaminhando.gif?w=144)
-> _Bacharel em Redes de Computadores_
 ____
 
 
