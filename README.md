@@ -114,7 +114,7 @@ ____
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaTODOS&theme=radical&show_icons=true&locale=en&layout=compact" alt="AnaTODOS" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&theme=radical&show_icons=true&locale=en" alt="AnaTODOS" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&theme=radical&show_icons=true&locale=en" alt="AnaTODOS" />
 
   ![Snake animation](https://github.com/DehDelfino/DehDelfino/blob/output/github-contribution-grid-snake.svg)
 </div>
