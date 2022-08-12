@@ -1,6 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header&text=Ana Silva&fontSize=25&fontColor=000000&animation=twinkling&fontAlignY=35"/></p> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=CartãoNet&fontSize=30&fontColor=00000&animation=twinkling&fontAlignY=35"/> 
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Ana+;graduada+em+Redes+de+Computadores;estudante+de+Biomedicina;rumo+a+primeira+certificação;em+QA+nível+internacional!+:%29)](https://git.io/typing-svg)
+
 
 ![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif)
 
