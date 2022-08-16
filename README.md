@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=CartãoNet&fontSize=30&fontColor=00000&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Ana+Maria&fontSize=30&fontColor=00000&animation=twinkling&fontAlignY=35"/> 
 
 
 
