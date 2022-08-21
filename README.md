@@ -7,6 +7,25 @@
 
 ![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif)
 
+
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/invite/6APQeg8cfz"_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+
+<a href="https://www.facebook.com/mariah.anacdf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+
+<a href="https://www.github.com/alanbazilik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+
+<a href="http://www.instagram.com/alangoncalvesbazilio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+
+<a href="https://www.linkedin.com/in/alan-gonçalves-bazilio-07a7301b1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+<a href="https://www.twitter.com/AlanbazilioGb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+
+<a href="https://www.twitch.tv/alangb12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
  
  <details>	
   <summary><b>⚡👈  Stats</b></summary>
@@ -130,3 +149,16 @@ ____
 <br><p align="centre"><b>Visitors Count</b></p>  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
 <br></div>
 
+____
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/AnaTODOS"><img src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnaTODOS's GitHub stats" /></a>
+
+<a href="https://github.com/AnaTODOS""><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaTODOS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/AnaTODOS""><img src="https://activity-graph.herokuapp.com/graph?username=AnaTODOS&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/AnaTODOS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTODOS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+____
