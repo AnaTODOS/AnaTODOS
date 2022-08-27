@@ -111,8 +111,7 @@ ____
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>   
 
-
-____
+___
  
 
   <summary><b><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> My GitHub Stats 
@@ -133,6 +132,9 @@ ____
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4cccc&height=120&section=footer"/>****
 
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/AnaTODOS/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+_________________________________________________________________________________________________________________
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AnaTODOS}/count.svg" /></p> 
