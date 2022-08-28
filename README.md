@@ -1,4 +1,6 @@
 
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4cccc&height=180&section=header&text=ANA+SILVA&fontSize=50&fontColor=00000&animation=twinkling&fontAlignY=40"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=BACHAREL+EM+REDES+DE+COMPUTADORES;CERTIFICADA+EM+TESTES+AUTOMATIZADOS+E+DEV+FRONT+END;GRADUANDA+EM+BIOMEDICINA!+:%29)](https://git.io/typing-svg)
@@ -120,7 +122,8 @@ ___
 
 <a href="https://github.com/AnaTODOS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaTODOS&stroke=ffffff&background=1c1917&ring=f4cccc&fire=f4cccc&currStreakNum=pink&currStreakLabel=f4cccc&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AnaTODOS"><img src="https://activity-graph.herokuapp.com/graph?username=AnaTODOS&bg_color=1c1917&color=ffffff&line=f4cccc&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/AnaTODOS"><img src="https://activity-graph.herokuapp.com/graph?username=AnaTODOS&bg_color=1c1917&color=f4cccc&line=f4cccc&point=ffffff&area_color=f4cccc&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/AnaTODOS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTODOS&langs_count=10&title_color=f4cccc&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
