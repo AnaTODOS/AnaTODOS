@@ -19,7 +19,7 @@ src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-b
 <p align="center">
   <img width="45%" height="auto" src="https://github.com/AnaTODOS/site-portfolio/blob/1a0e7b0acce8d7c1636916abee409fd44988cd00/undraw_World_re_768g.png" />
   
-  
+
 
 ### Socials
 
@@ -28,7 +28,18 @@ src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-b
 <h1 align="center">
 <h3 align="center">QA | Tester Jr. | Dev Fron End | Ultima School | Analista de TEF e POS | Suporte Técnico</h3></h1>
 
+
+
+
+
 ## ⭐️ Sobre mim
+
+<details><summary>CLICK ME</summary>
+
+_Se você melhorar 1% a cada dia, ao final de 1 ano você será 365% melhor do que era quando iniciou._
+
+![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0033.gif)
+
 <div align='center'>
   <b> "NÃO SE CONTRATA NINGÚEM PARA FAZER ABDOMINAIS POR VOCÊ" - Leandro Karnal</b>
 </div><br>
@@ -87,8 +98,10 @@ A vida é boa quando você está feliz; mas a vida é muito melhor quando os out
 </div>
 
 
+</details>
 
-____
+
+
 ### ⭐️Skills
 
 <p align="left">
