@@ -147,7 +147,7 @@ ____
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4cccc&height=120&section=footer"/>****
 
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/AnaTODOS/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/AnaTODOS/AnaTODOS/blob/output/github-contribution-grid-snake.svg)
 _________________________________________________________________________________________________________________
 
 <div align="center">
@@ -216,7 +216,7 @@ ___
 
 ___
   
-  ![snake gif](https://github.com/AnaTODOS/AnaTODOS/blob/output/github-contribution-grid-snake.svg)
+
 
   ### [Projetos Futuros!](https://github.com/AnaTODOS/)
   
