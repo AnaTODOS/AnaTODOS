@@ -1,5 +1,3 @@
-![snake gif](https://github.com/AnaTODOS/AnaTODOS/blob/output/github-contribution-grid-snake.svg)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4cccc&height=180&section=header&text=ANA+SILVA&fontSize=50&fontColor=00000&animation=twinkling&fontAlignY=40"/> 
 
@@ -218,6 +216,8 @@ ___
 
 ___
   
+  ![snake gif](https://github.com/AnaTODOS/AnaTODOS/blob/output/github-contribution-grid-snake.svg)
+
   ### [Projetos Futuros!](https://github.com/AnaTODOS/)
   
   <details open>
